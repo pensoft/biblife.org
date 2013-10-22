@@ -2,7 +2,7 @@ html, body, ul, li, h2 {
     margin: 0;
     padding: 0;
     font: 12pt;
-	line-height: 1.35; 
+	line-height: 1.35;
 	font-family: "Segoe UI", Arial, Helvetica, sans-serif;
     color: #1F1F1F;
 }
@@ -149,13 +149,8 @@ li {clear: both}
     text-decoration: none;
 }
 
-
 #topbar a:hover, #topbar a#current_link {
     color: rgb(255, 255, 255);
-}
-
-#related{
-	float: right;
 }
 
 .clearfix:before,
