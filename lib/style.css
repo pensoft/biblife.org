@@ -154,6 +154,10 @@ li {clear: both}
     color: rgb(255, 255, 255);
 }
 
+#related{
+	float: right;
+}
+
 .clearfix:before,
 .clearfix:after {
     content: " ";
